@@ -1,0 +1,1 @@
+Projetos de Estudos e treinos em Python para a formação como Cientista de Dados na EBAC.
